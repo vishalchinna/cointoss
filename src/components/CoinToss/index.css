@@ -1,0 +1,39 @@
+.bg-container {
+  background-image: linear-gradient(to right, #f9d423, #e2a139);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.box-container {
+  background-color: white;
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.coin {
+  height: 150px;
+}
+.counting {
+  display: flex;
+}
+p {
+  margin-right: 15px;
+  color: #334155;
+}
+.btn {
+  margin: 20px;
+  background-color: #f9d423;
+  border: none;
+  padding: 8px 15px 8px 15px;
+  font-size: 10px;
+  color: #a35200;
+  font-weight: bold;
+  border-radius: 7px;
+}
+h1 {
+  color: #a35200;
+  font-weight: 600;
+}
